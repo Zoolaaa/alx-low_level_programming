@@ -7,12 +7,12 @@
  */
 int main(void)
 {
-char c[8]="_putchar";
+char c[10]="_putchar";
 int i;
 for(i=0;i<8;i++)
 {
 _putchar(c[i]);
 }
-_putchar(8);
+_putchar(10);
 return (0);
 }	
