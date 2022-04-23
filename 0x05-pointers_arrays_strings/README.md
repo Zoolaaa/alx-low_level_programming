@@ -1,0 +1,1 @@
+pointers__arrays_strings
