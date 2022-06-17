@@ -24,8 +24,4 @@ unsigned int binary_to_uint(const char *b)
 
 	return (num);
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
 
